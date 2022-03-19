@@ -1,6 +1,6 @@
 # SQL-Project-2
 
-This repository contains three .sql files. Attrition file mentions database creation and data import. Remaining two .sql files (insights.sql and classification.sql) showcase different insights about the datasets. Much like the EDA with only SQL queries.  
+This repository contains three .sql files. Data_import file mentions database creation and data import. Remaining two .sql files (queries.sql and classification.sql) showcase different insights about the datasets. Much like the EDA with only SQL queries.  
 
 # Data import and regarding issues:
 1. I began with table creation and data import from csv files. 
